@@ -1,4 +1,4 @@
-# HandwrittenBanglaDigitRecognition:
+# HANDWRITTEN BANGLA DIGIT RECOGNITION USING CNN WITH WEB APPLET:
 
 Bangla handwritten digit recognition is an efficient starting point for building an Optical Character Reader in the Bengali language. Lack of large dataset, Bangla digit recognition was not standardized previously. Handwritten digit recognition complexity varies among various languages due to distinct shapes and numbers of a digit. Recently, Convolutional Neural Network (CNN) is found efficient for English handwritten both digit and character recognition and parallelly Bangla handwritten both digit and character recognition. In this paper, a CNN based Bangla handwritten digit recognition is investigated. The proposed model normalizes the digit images, different kinds of image preprocessing techniques are used for processing images and then finally employ CNN to classify individual digit. The CNN model has shown excellent performance.
 
